@@ -1,0 +1,7 @@
+name: go-server-stencil
+arguments:
+- name: APP_NAME
+  text: Set the application name
+  default: go-app
+exclude:
+  - .git
